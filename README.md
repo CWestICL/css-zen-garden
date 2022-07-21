@@ -1,4 +1,4 @@
-# See Ess Yes
+# CSS Zen Garden
 
 [CSS Zen Garden](http://www.csszengarden.com/) is a famous project where participants show what they can achieve through css alone.
 
