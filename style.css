@@ -7,8 +7,8 @@ h2 {
     color: olive;
 }
 a {
-    color: blueviolet;
+    color: orange;
 }
 a:hover {
-    color: darkslateblue;
+    color: orangered;
 }
