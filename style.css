@@ -6,3 +6,9 @@ h1 {
 h2 {
     color: olive;
 }
+a {
+    color: orange;
+}
+a:hover {
+    color: orangered;
+}
