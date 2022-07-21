@@ -1,0 +1,23 @@
+{
+  "name": "see-ess-yes",
+  "version": "1.0.0",
+  "description": "A place for you to show off your design skills",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swe-resources-room/see-ess-yes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swe-resources-room/see-ess-yes/issues"
+  },
+  "homepage": "https://github.com/swe-resources-room/see-ess-yes#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
